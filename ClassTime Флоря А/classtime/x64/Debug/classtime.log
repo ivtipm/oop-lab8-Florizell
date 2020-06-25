@@ -1,0 +1,21 @@
+﻿  Time.cpp
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(15,9): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(16,8): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(17,8): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(24,10): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(30,9): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(36,9): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(86,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(87,8): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(90,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(92,7): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(94,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(97,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(112,6): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(114,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(117,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(130,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(203,6): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(206,6): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\asus\Downloads\ClassTime\ClassTime\classtime\Time.cpp(209,6): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  classtime.vcxproj -> C:\Users\asus\Downloads\ClassTime\ClassTime\x64\Debug\classtime.exe

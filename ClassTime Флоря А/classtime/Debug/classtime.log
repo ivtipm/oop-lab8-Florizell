@@ -1,0 +1,5 @@
+﻿  classtime.cpp
+c:\users\e400\documents\mmb\classtime\classtime\classtime.cpp(74): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\e400\documents\mmb\classtime\classtime\classtime.cpp(81): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+c:\users\e400\documents\mmb\classtime\classtime\classtime.cpp(88): warning C4244: =: преобразование "unsigned int" в "float", возможна потеря данных
+  classtime.vcxproj -> C:\Users\E400\Documents\MMB\classtime\Debug\classtime.exe
